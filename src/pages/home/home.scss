@@ -1,0 +1,122 @@
+page-home {
+
+//     .login {
+//     }
+    #main{
+        background-image: linear-gradient(rgba(255, 255, 255, 0.76), rgba(255, 255, 255, 0.8)), url('../../assets/imgs/som-reveals-images-grand-hall-new-york-s-penn-station-11304-9497975.jpg');
+    }
+
+    ion-icon{
+        color:cornflowerblue;
+    }
+
+    .btn{
+        border-radius: 100px;
+        //border: solid 3px cornflowerblue;
+       // height: 50px;
+        width: 35px;
+       // padding-left: 10%;
+        
+        
+    }
+
+    // #lock{
+    //     padding-left:100%;
+        
+        
+    // }
+
+    .btn{
+        color:white;
+        border:solid 1px cornflowerblue;
+        height: 30px;
+        width: 30px;
+        text-align: center;
+        padding-top: 4%;
+
+    }
+
+
+    .btnw{
+        color:white;
+        border-radius: 100%;
+        border:solid 1px cornflowerblue;
+        height: 30px;
+        width: 30px;
+        text-align: center;
+        
+    }
+
+
+
+    
+   
+
+  .signinbtn{
+        width:100%;
+    }  
+
+    .signinbtnw{
+        width:100%;
+        font-weight: bold;
+            
+    }
+
+    p{
+        color:cornflowerblue;
+    }
+
+    .theSpan {
+        color:cornflowerblue;
+
+    }
+
+
+    .list-form{
+        margin-top:10%;
+        
+      
+    }
+
+
+    .item{
+        background-color: rgba(0,0,0,0);
+        color:white;
+
+    }
+    .logo{
+        margin-top:30%;
+       
+    }
+
+    ion-col{
+        padding-right: 70%;
+    }
+
+    #f{
+        border-radius: 100%;
+       
+        height:25px;
+    }
+
+    #btng{
+        background-color: cornflowerblue;
+
+    }
+
+    #iong{
+        color:white;
+        background-color: cornflowerblue;
+    }
+
+    #sign{
+        font-size: 20px;
+       
+
+    }
+
+  
+
+    
+
+}

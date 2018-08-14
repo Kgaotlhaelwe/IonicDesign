@@ -1,0 +1,79 @@
+page-second {
+
+
+    ion-navbar{
+        height: 150px;
+        background-color: cornflowerblue;
+    }
+
+    #bg{
+        background-color: cornflowerblue;
+
+    }
+
+    .pr{
+        color:cornflowerblue;
+        padding-right: 50%;
+    }
+
+    .myHeader{
+       
+        height: 200px;
+     
+        width: 100%;
+        background-color: cornflowerblue;
+       
+    //    margin-top: -10px;
+      
+      
+    }
+
+
+    .smallbox{
+        
+        border: dotted 2px white;
+        border-radius: 100%;
+        width:80px;
+        height: 80px;
+        margin-left: 15%;
+      //  margin-top: 10%;
+      position: relative;
+      top: 80px;
+        
+       
+        
+    }
+
+    .signinbtn{
+        width:90%;
+        background-color: cornflowerblue;
+        font-weight: bold;
+        color:white;
+    }
+
+    box{
+        width:30%;
+       
+    }
+
+
+    ion-icon{
+        padding-left:88%;
+        padding-top:20%;
+        font-size:25px;
+    }
+
+    .item{
+        margin-left: 5%;
+        width:80%;
+
+    }
+
+
+    .theSpan{
+        color:cornflowerblue;
+    }
+
+   
+
+}
