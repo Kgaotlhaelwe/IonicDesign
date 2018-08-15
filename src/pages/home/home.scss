@@ -28,7 +28,7 @@ page-home {
 
     .btn{
         color:white;
-        border:solid 1px cornflowerblue;
+        border:solid 1px #3A81E9;
         height: 30px;
         width: 30px;
         text-align: center;
@@ -40,7 +40,7 @@ page-home {
     .btnw{
         color:white;
         border-radius: 100%;
-        border:solid 1px cornflowerblue;
+        border:solid 1px #3A81E9;
         height: 30px;
         width: 30px;
         text-align: center;
@@ -113,6 +113,10 @@ page-home {
         font-size: 20px;
        
 
+    }
+
+    i{
+        color: cornflowerblue;
     }
 
   

@@ -13,7 +13,11 @@ page-second {
 
     .pr{
         color:cornflowerblue;
-        padding-right: 50%;
+        position:relative ;
+        width: 100%;
+        text-align: left;
+        margin-left: 5.8%;
+        
     }
 
     .myHeader{
@@ -58,28 +62,29 @@ page-second {
        
     }
 
-
-    ion-icon{
-    //     padding-left:88%;
-    //    // padding-top:20%;
-    //     font-size:25px;
-    color:cornflowerblue;
-    }
-
-
-    i{
-        padding-left:85%;
-        padding-top:20%;
-        font-size:100px;
+    .icon{
+        position: relative;
+        top: 70px;
+       left: 40%;
+        font-size:25px;
         color:#4E84DA;
+         color:#4E84DA; 
+   
 
     }
 
-    #icon {
-        color:black ;
-        font-size:30px;
+#icon-help{
+    position: relative;
+    top: -0.00px;
+   left: -0%;
+   font-size:13px;
 
-    }
+
+
+
+}
+
+
 
     .item{
         margin-left: 5%;
